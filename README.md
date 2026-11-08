@@ -1,6 +1,4 @@
-## Hi, I'm Christian
-
-I make small Mac apps, browser tools and AI agent tools that fix things that bug me. They run on your own computer, with no accounts.
+## Some of my projects I maintain and imporve
 
 | Project | What it does |
 |---|---|
